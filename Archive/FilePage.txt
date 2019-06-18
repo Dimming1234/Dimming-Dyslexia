@@ -1,0 +1,25 @@
+<h1> Welcome to file page! </h1>
+<a href="HomePage.html"><img src="http://pngriver.com/wp-content/uploads/2017/11/arrow-signs-png-transparent-images-clipart-icons-pngriver-download-free-640px-Yellow_Arrow_Left.png" width=150>
+</a>
+
+<br>
+
+<a href="CameraPage.html"><img src="E:\STEAM\Images\CameraImage.png" width=150></a> 
+
+<br>
+
+<a href="SearchPage.html"><img src="E:\STEAM\Images\SearchImage" width=150></a>
+
+<br>
+
+<a href="FilePage.html"><img src="E:\STEAM\Images\FileImage" width=150></a>
+
+<br>
+
+<a href="HomePage.html"><img src="E:\STEAM\Images\HomeImage" width=150></a>
+
+<br>
+
+
+
+
